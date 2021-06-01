@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>390993222856-orca8e8fvmu5gqam7o5r6venj26ojfd9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.390993222856-orca8e8fvmu5gqam7o5r6venj26ojfd9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>390993222856-q1osjb4h7t6ss1s5op39rrk2ucok6ioi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWyR9f4dV8J_1uIrrNao5QP2ImawzYpuQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>390993222856</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thousand.Dauletten</string>
+	<key>PROJECT_ID</key>
+	<string>dauletten-f1939</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dauletten-f1939.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:390993222856:ios:8264a640dcc125949dd9fd</string>
+	<key>DATABASE_URL</key>
+	<string>https://dauletten-f1939.firebaseio.com</string>
+</dict>
+</plist>
